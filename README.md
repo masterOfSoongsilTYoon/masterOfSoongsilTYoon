@@ -48,7 +48,7 @@ Conference: Ack conference 2024 in South Korea
 
 [Link]: will be updated
 
-github: will be updated
+github: https://github.com/masterOfSoongsilTYoon/Fed-SubNN
 
 __Thank you for reading my work__
 
